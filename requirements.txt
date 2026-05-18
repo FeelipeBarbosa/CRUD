@@ -1,0 +1,9 @@
+Flask == 2.2.5
+Flask-SQLAlchemy == 3.0.5
+Werkzeug == 2.2.2
+authlib == 0.15.3
+pymysql 
+requests
+Flask-cors == 3.0.10
+
+
